@@ -9,47 +9,58 @@
 
 ---
 
+<div align="left" style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 250px;">
+  
 ### 🎧 Now Playing
-> **Helena** – *My Chemical Romance*  
-> [▶️ Listen on Spotify](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9?si=d7eba80208c9430b)
+
+<img src="https://i.scdn.co/image/ab67616d0000b273aaa0ed9fc718f632c6478076" width="80" style="border-radius: 8px" />
+
+**Helena** – *My Chemical Romance*  
+<sub><em>"What's the worst that I can say? Things are better if I stay..."</em></sub>
+
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+
+### 🧠 Now Building
+
+**Project:** Synji  
+**Focus:** Flask API · Agro Dashboard  
+**Stack:** Python · MongoDB · Tailwind · Vercel
+
+</div>
+
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go) 
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) 
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) 
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+<div align="left" style="display: flex; gap: 40px; flex-wrap: wrap;">
 
-#### Frameworks & Libraries  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss) 
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
-![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io) 
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+<div style="flex: 1; min-width: 280px;">
 
-#### Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) 
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel) 
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman) 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) 
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
+#### 👨‍💻 Languages  
+JavaScript, TypeScript, Python, Go, C, PHP, HTML, CSS
 
-#### Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) 
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+#### ⚙️ Frameworks & Libraries  
+React, Next.js, TailwindCSS, Express, Redux, Socket.io
+
+</div>
+
+<div style="flex: 1; min-width: 280px;">
+
+#### 🛠 Tools & Platforms  
+Git, GitHub, Vercel, Postman, Docker, Figma, VSCode
+
+#### 🗄️ Databases  
+MongoDB, MySQL, SQLite, PostgreSQL, Redis
+
+</div>
+
+</div>
 
 ---
 
@@ -62,9 +73,9 @@
 
 ### 🔗 Let's Connect
 
-- 🌌 [Instagram @rajwarifaa](https://instagram.com/rajwarifaa)  
-- 💼 [GitHub @julllune](https://github.com/julllune)  
-- 🎶 [Spotify – Helena](https://open.spotify.com/track/6vJzfCJxAnfZKYfAJqjz0k)
+- ![Instagram](https://img.shields.io/badge/-@rajwarifaa-E4405F?style=flat-square&logo=instagram&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-@julllune-181717?style=flat-square&logo=github&logoColor=white)
+- ![Spotify](https://img.shields.io/badge/-Helena-1DB954?style=flat-square&logo=spotify&logoColor=white)
 
 ---
 
