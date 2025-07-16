@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hey, I'm Julllune</h1>
 <p align="center">
-  <em>Software Developer · Data Dreamer · Code Artisan</em>  
+  <em>Software Developer · Code Artisan · Python Whisperer</em>  
 </p>
 
 <p align="center">
-  <code>Python Enthusiast</code> · <code>API Integrator</code> · <code>Clean Code Advocate</code>  
+  <code>Backend builder</code> · <code>API integrator</code> · <code>Automation enthusiast</code>
 </p>
 
 ---
@@ -55,10 +55,8 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julllune&show_icons=true&theme=algolia" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julllune&layout=compact&theme=algolia" alt="Top Langs" height="165">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=julllune&show_icons=true&theme=algolia" height="165">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julllune&layout=compact&theme=algolia" height="165">
 
 ---
 
@@ -70,6 +68,4 @@
 
 ---
 
-<p align="center">
-  <em>“I build with logic. I finish with feeling.”</em>
-</p>
+<p align="center"><em>"I build with logic. I finish with feeling."</em></p>
