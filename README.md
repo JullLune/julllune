@@ -1,6 +1,7 @@
 ## 👋 Hello, I'm Julllune
 
-I'm a developer who enjoys building clean interfaces and experimenting with minimalist, dark-themed aesthetics.
+💻 Software Developer | Python Enthusiast | Automating Things with Code  
+Building lightweight backend apps, exploring API integration, and writing clean, efficient code.
 
 ---
 
